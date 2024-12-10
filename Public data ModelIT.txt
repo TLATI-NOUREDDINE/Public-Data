@@ -5,7 +5,7 @@ To properly integrate our IT model, coded in C++, with the tested uncorrelatedin
 
 
 8  // number of jobs (n=8)	
-2  // number of machines	(m=2)
+2  // number of machines(m=2)
 0.7 // server load (L=0.7)
 
 // For each instance, the initial n values represent the job processing times, and the subsequent n values denote the setup times for the jobs. We perform a cross-analysis of five instances for each combination of (n, m, L).
