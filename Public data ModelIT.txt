@@ -1,7 +1,7 @@
 
-To properly integrate our IT model, coded in C++, with the tested uncorrelatedinstances, we employ the following structure.
+To properly test our MILP models coded in C++, we employ the following structure.
 
-15  // (NbInstance=15) Number of total cross (n,m,L) to specify, for example if we use just two type of instances (8,2,0.7) and (20,2,0.7) we have NbInstance=2
+15  // (NbInstance=15) Number of total cross (n,m,L). For example if we use just two type of instances (8,2,0.7) and (20,2,0.7) we have NbInstance=2
 
 
 8  // number of jobs (n=8)	
